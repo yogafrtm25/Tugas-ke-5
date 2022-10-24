@@ -6,10 +6,10 @@ Nim     : 312210042
 Kelas   : TI.22.A1
 
 # Install Python
-1. donwload pyhton pada web resmi python https://www.python.org/ dengan menyesuaikan OS dari versi masing masing.
+1. download pyhton pada web resmi python https://www.python.org/ dengan menyesuaikan OS dari versi masing masing.
 ![Screenshot (40)](https://user-images.githubusercontent.com/115678171/197451921-0c583f35-3915-4b06-b0fd-11d335f82708.png)
 
-2. buka hasil donwload kemudian klik install, tunggu sampai proses installasi selesai ( ceklis setiap menu yang di tampilkan selama porses installasi )
+2. buka hasil download kemudian klik install, tunggu sampai proses installasi selesai ( ceklis setiap menu yang di tampilkan selama porses installasi )
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/115678171/197481055-2dfb00bc-f1c2-4cc4-9954-d9eca35c2746.png)
 <img width="501" alt="foto 3" src="https://user-images.githubusercontent.com/115473988/197392292-9ce532fc-4788-428e-bf8c-325b45f26b04.png">
