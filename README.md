@@ -10,10 +10,12 @@ Kelas   : TI.22.A1
 ![Screenshot (40)](https://user-images.githubusercontent.com/115678171/197451921-0c583f35-3915-4b06-b0fd-11d335f82708.png)
 
 2. buka hasil donwload kemudian klik install, tunggu sampai proses installasi selesai ( ceklis setiap menu yang di tampilkan selama porses installasi )
-![Screenshot (35)](https://user-images.githubusercontent.com/115678171/197452351-4cb298b2-85a9-4148-a8fc-e79783f77b95.png)
+
+![Screenshot (44)](https://user-images.githubusercontent.com/115678171/197481055-2dfb00bc-f1c2-4cc4-9954-d9eca35c2746.png)
 <img width="501" alt="foto 3" src="https://user-images.githubusercontent.com/115473988/197392292-9ce532fc-4788-428e-bf8c-325b45f26b04.png">
 
 3. cek keterangan instalasi berhasil pada menu cmd dengan cara ketik python --version,  dan instalasi dinyatakan berhasil dijalankan pada menu cmd
+
 ![Screenshot (36)](https://user-images.githubusercontent.com/115678171/197453979-71154602-a876-41f6-b784-fa353f702721.png)
 
 # Latihan Python 1
