@@ -70,5 +70,5 @@ print("Hasil pembagian {1}/{0}=%d".format(a,b) %(a/b)
 ```
 ![Screenshot (42)](https://user-images.githubusercontent.com/115678171/197456894-cc0279d8-de83-485b-985d-114a547b5160.png)
 
-kemudian klik run dan masukan nilai a=6 dan b=8 maka akan tampil sebagai berikut dan masukan nilai a=6 b=8 
+kemudian klik run dan masukan nilai a=6 dan b=8 maka akan tampil sebagai berikut
 ![Screenshot (41)](https://user-images.githubusercontent.com/115678171/197457034-ba7a23a2-a922-4fab-9513-a93bcc4f73cd.png)
