@@ -1,1 +1,14 @@
-#lab2py
+# Latihan Python 2
+buatlah perintah seperti dibawah ini
+Menjumlahkan dua buah bilangan variabel a dan b
+
+```python
+a=8
+b=6
+print("variable a=",a)
+print("variable a=",b)
+print("hasil penjumlahan a+b=",a+b)
+```
+![Screenshot (382)](https://user-images.githubusercontent.com/115678171/197455753-b5174e43-3021-45cc-a313-9a56a0a4e76f.png)
+
+
