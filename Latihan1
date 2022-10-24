@@ -1,1 +1,10 @@
-#lab2py
+# Latihan Python 1
+1. pada menu windows ketik python dan akan muncul Python (Python 3.10 64-bit) sesuai dengan versi Pyhton yang di donwload.
+
+2. Setelah masuk python masukan perintah seperti dibawah ini  
+
+```python
+#menampilkan tulisan "Hello" di layar
+print("Hello")
+print("Saya sedang belajar Pyhton")
+````
