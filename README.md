@@ -1,7 +1,7 @@
 ## Latihan Pyhton 
 Nama    : Yoga Pratama
 
-Nim     : 312210184
+Nim     : 312210042
 
 Kelas   : TI.22.A1
 
